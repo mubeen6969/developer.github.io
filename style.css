@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    box-sizing: border-box;
+    width: 100%;
+    height: 112px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-transform: capitalize;
+    padding-left: 80px;
+    padding-right: 80px;
+    background-color:#ebf5f1;
+    box-shadow: 0px 3px 5px #363938;
+}
+img.logo{
+    border-radius: 30%;
+}
+
+.menue ul li {
+    display: inline-block;
+    margin-right: 24px;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    margin-left: 50px;
+}
+
+.menue {
+    font-family: inria serif;
+    font-weight: 300;
+    font-size: small;
+}
+
+.hero-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 80px;
+    width: 100%;
+    height: 497px;
+}
+
+.heading {
+    font-family: Ramabhadra;
+    color: #363938;
+    font-size: 3rem;
+}
+
+.para {
+    font-family: inria serif;
+    opacity: 50%;
+}
+
+.btn {
+    height: 38px;
+    width: 140px;
+    background-color: blue;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 20px;
+    margin-top: 20px;
+    border-radius: 200px;
+}
+
+.custmer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: inria serif;
+}
+
+.num {
+    font-size: 40px;
+}
+
+.text {
+    font-size: 24;
+}
+
+.whychose {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* transform: translate(-50% -50%); */
+    margin-bottom: 30px;
+}
+
+.last {
+    width: 433px;
+    height: 72px;
+    font-family: Inria Serif;
+    color: #7FA58E;
+}
+
+.why {
+    margin: 20px 0px;
+    font-family: Ramabhadra;
+    opacity: 70%;
+    color: #7FA58E;
+}
