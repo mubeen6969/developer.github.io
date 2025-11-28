@@ -1,0 +1,1 @@
+“Professional frontend developer portfolio — a clean, responsive, and modern website showcasing web-development skills, projects, and contact information, built using HTML, CSS, and JavaScript and hosted on GitHub Pages.”
